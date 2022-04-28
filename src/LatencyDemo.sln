@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatencyDemo.FnApp", "LatencyDemo.FnApp\LatencyDemo.FnApp.csproj", "{D7F31AB5-FC6D-4594-AE22-B85D78B78BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F31AB5-FC6D-4594-AE22-B85D78B78BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F31AB5-FC6D-4594-AE22-B85D78B78BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F31AB5-FC6D-4594-AE22-B85D78B78BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F31AB5-FC6D-4594-AE22-B85D78B78BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9ABE7C5-0D8F-4127-8376-AAAA9E327C2F}
+	EndGlobalSection
+EndGlobal
